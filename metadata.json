@@ -1,0 +1,10 @@
+{
+  "name": "SANKALP: Smart Emergency Network",
+  "description": "AI-Based Smart Adaptive Network for Community Assistance, Local Communication & Public Safety with live incident response workflow, Leaflet maps, and ML categorization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
